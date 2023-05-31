@@ -1,0 +1,3 @@
+pip install requests
+pip install BeautifulSoup4
+pyinstaller --onefile scroop.py
