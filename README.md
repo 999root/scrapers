@@ -3,3 +3,5 @@
 - Direct downloads
 ## RPCS3 Webscraper
 - Scrapes results of games through the RPCS3 Compatibility searcher/list
+## NPMJS Webscraper
+- Scrapes search results of NPM packages
