@@ -1,6 +1,8 @@
 # 999root's Webscrapers
 - All of my webscrapers in 1 repo
 - Direct downloads
+# Why?
+- Just practice to me for quick scripting abilities and understanding how the requests and BS4 modules work.
 ## RPCS3 Webscraper
 - Scrapes results of games through the RPCS3 Compatibility searcher/list
 ## NPMJS Webscraper
